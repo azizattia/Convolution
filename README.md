@@ -70,7 +70,7 @@ TP1/
 ```
 
 ## Auteur
-Développé par Mohamed Aziz Attia dans le cadre du TP1 de traitement d'images.
+Développé par Mohamed Aziz Attia dans le cadre du TP1 de traitement d'images. INF600F
 
 ---
 Licence MIT - Vous êtes libre d'utiliser, modifier et partager ce projet.
